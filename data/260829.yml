@@ -1,0 +1,62 @@
+about:
+  description: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+  license: MIT
+  homepage: https://repomix.com
+  head: 13cf27d
+  archived: false
+  latestVersion: v1.18.0
+  collectedAt: 2026-08-29T07:02:57Z
+timeline:
+  created: 2024-07-13
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-08
+popularity:
+  star: 28107
+  watcher: 74
+  fork: 1506
+  release: 101
+  contributor: 69
+  pullRequest: 286
+  issue: 261
+language:
+  TypeScript: 2174050
+  Vue: 87579
+  JavaScript: 7539
+  Shell: 7157
+  Dockerfile: 6625
+  CSS: 5650
+  Nix: 874
+totalLine: 2289474
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 43
+    openPR: 10
+    closedIssue: 0
+    openIssue: 2
+    commit: 75
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 163
+    openPR: 14
+    closedIssue: 9
+    openIssue: 7
+    commit: 294
+  last180d:
+    since: 2026-03-02
+    release: 9
+    mergedPR: 450
+    openPR: 19
+    closedIssue: 17
+    openIssue: 13
+    commit: 990
+  last360d:
+    since: 2025-09-03
+    release: 23
+    mergedPR: 708
+    openPR: 30
+    closedIssue: 64
+    openIssue: 27
+    commit: 1636
