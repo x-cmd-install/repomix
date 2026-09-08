@@ -5,13 +5,13 @@ about:
   head: dc40590
   archived: false
   latestVersion: "v1.18.0"
-  collectedAt: 2026-09-08T02:01:49Z
+  collectedAt: 2026-09-08T04:35:34Z
 timeline:
   created: 2024-07-13
   lastCommit: 2026-09-07
   lastRelease: 2026-08-08
 popularity:
-  star: 28235
+  star: 28236
   watcher: 78
   fork: 1515
   release: 101
@@ -85,7 +85,7 @@ total:
   commit: 4498
 ---
 path: /home/runner/.x-repo/github.com/yamadashy/repomix
-collectedAt: 2026-09-08T02:01:53Z
+collectedAt: 2026-09-08T04:35:40Z
 loc:
   TypeScript:
     code: 46176
