@@ -7,7 +7,7 @@
 - **Latest release**: `v1.18.0` (2026-08-08)
 - **Last commit**: 2026-09-07
 - **License**: MIT
-- **Stars**: 28241 · **Forks**: 1515 · **Open issues**: 261 · **Contributors**: 69
+- **Stars**: 28257 · **Forks**: 1516 · **Open issues**: 261 · **Contributors**: 69
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/repomix> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:48:17Z._
+_Last regenerated: 2026-09-09T04:39:24Z._
