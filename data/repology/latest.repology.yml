@@ -1,0 +1,77 @@
+- repo: aur
+  srcname: repomix
+  binname: repomix
+  visiblename: repomix
+  version: 1.18.0
+  origversion: 1.18.0-1
+  status: newest
+  summary: Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file.
+  maintainers:
+    - dreamscached@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: repomix-git
+  binname: repomix-git
+  visiblename: repomix-git
+  version: r1375.496d90c
+  origversion: r1375.496d90c-1
+  status: rolling
+  summary: Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file.
+  maintainers:
+    - dreamscached@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: repomix
+  visiblename: repomix
+  version: 1.18.0
+  origversion: null
+  status: newest
+  summary: Pack repository contents into a single AI-friendly file
+- repo: nix_stable_25_05
+  srcname: repomix
+  visiblename: repomix
+  version: 0.3.3
+  origversion: null
+  status: outdated
+  summary: Tool to pack repository contents to single file for AI consumption
+  maintainers:
+    - boralg@github
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: repomix
+  visiblename: repomix
+  version: 1.15.0
+  origversion: null
+  status: outdated
+  summary: Tool to pack repository contents to single file for AI consumption
+  maintainers:
+    - boralg@github
+    - koukun0120@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: repomix
+  visiblename: repomix
+  version: 1.18.0
+  origversion: null
+  status: newest
+  summary: Tool to pack repository contents to single file for AI consumption
+  maintainers:
+    - boralg@github
+    - koukun0120@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: repomix
+  visiblename: repomix
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: Tool to pack repository contents to single file for AI consumption
+  maintainers:
+    - boralg@github
+  licenses:
+    - MIT
