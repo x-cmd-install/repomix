@@ -1,24 +1,64 @@
 # repomix
 
+[中文版本](./README.cn.md)
+
 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
-- **Upstream**: <https://github.com/yamadashy/repomix>
-- **Homepage**: <https://repomix.com>
-- **Latest release**: `v1.18.0` (2026-08-08)
-- **Last commit**: 2026-09-07
-- **License**: MIT
-- **Stars**: 28268 · **Forks**: 1516 · **Open issues**: 261 · **Contributors**: 69
+![repomix](https://repo.x-cmd.io/repomix.svg)
 
-## Installation
+## Install
 
 ```sh
 x install repomix
 ```
 
-See <https://x-cmd.com/install/repomix> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/yamadashy/repomix>
+- **Homepage**: <https://repomix.com>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:45:19Z._
+- **Latest**: `v1.18.0` (2026-08-08)
+- **Last commit**: 2026-09-07
+- **Published**: 2026-08-08T04:31:26Z
+
+## Popularity
+
+- **Stars**: 28,269 · **Forks**: 1,515 · **Open issues**: 262 · **Contributors**: 69
+
+## Totals (cumulative)
+
+- **Releases**: 101 · **Merged PRs**: 1242 · **Open PRs**: 37 · **Closed issues**: 159 · **Open issues**: 103 · **Commits**: 4498
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 29 | 8 | 0 | 3 | 44 |
+| 90d | 2026-06-12 | 5 | 163 | 13 | 8 | 7 | 279 |
+| 360d | 2025-09-15 | 22 | 706 | 30 | 63 | 23 | 1624 |
+
+## Code size
+
+Total: **80,825** lines of code across **476** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 46,176 | 5,565 | 7,285 | 376 |
+| Json | 33,734 | 0 | 0 | 65 |
+| JavaScript | 211 | 64 | 44 | 11 |
+| Vue | 194 | 3 | 38 | 19 |
+| Yaml | 194 | 43 | 15 | 5 |
+
+## Improve this data
+
+Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `repomix` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/repomix.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:53Z._
