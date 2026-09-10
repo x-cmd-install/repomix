@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.18.0"
   latestRelease: "v1.18.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:08:00Z
+  collectedAt: 2026-09-10T23:37:59Z
 timeline:
   created: 2024-07-13
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-08
   lastPrerelease: 
 popularity:
-  star: 28284
+  star: 28285
   watcher: 76
   fork: 1514
   release: 101
@@ -89,7 +89,7 @@ total:
   commit: 4500
 ---
 path: /home/runner/.x-repo/github.com/yamadashy/repomix
-collectedAt: 2026-09-10T20:08:05Z
+collectedAt: 2026-09-10T23:38:03Z
 loc:
   TypeScript:
     code: 46176
