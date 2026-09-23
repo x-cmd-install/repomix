@@ -4,7 +4,7 @@
 
 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
-[![x-cmd/install — repomix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/repomix.svg)](https://x-cmd.com/install/repomix)
+[![x-cmd/install — repomix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/repomix.svg)](https://x-cmd.com/install/repomix)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **81,462** lines of code across **477** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,449 · **Forks**: 1,538 · **Open issues**: 277 · **Contributors**: 72
+- **Stars**: 28,468 · **Forks**: 1,537 · **Open issues**: 277 · **Contributors**: 72
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **81,462** lines of code across **477** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 46 | 9 | 8 | 9 | 58 |
-| last60d | 2026-07-24 | 2 | 96 | 10 | 10 | 9 | 147 |
-| 90d | 2026-06-24 | 5 | 171 | 10 | 14 | 11 | 280 |
-| last180d | 2026-03-26 | 9 | 410 | 17 | 22 | 19 | 807 |
-| 360d | 2025-09-27 | 22 | 725 | 28 | 67 | 27 | 1621 |
-| last720d | 2024-10-02 | 76 | 1205 | 35 | 151 | 104 | 4320 |
+| 30d | 2026-08-24 | 1 | 46 | 9 | 8 | 9 | 58 |
+| last60d | 2026-07-25 | 2 | 91 | 10 | 10 | 9 | 147 |
+| 90d | 2026-06-25 | 5 | 171 | 10 | 14 | 11 | 280 |
+| last180d | 2026-03-27 | 8 | 405 | 17 | 22 | 19 | 807 |
+| 360d | 2025-09-28 | 22 | 725 | 28 | 66 | 27 | 1621 |
+| last720d | 2024-10-03 | 76 | 1205 | 35 | 151 | 104 | 4320 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:52:38Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:16:40Z._
