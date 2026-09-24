@@ -33,26 +33,26 @@ Total: **81,462** lines of code across **477** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.1` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 28,468 · **Forks**: 1,537 · **Open issues**: 277 · **Contributors**: 72
+- **Stars**: 28,476 · **Forks**: 1,540 · **Open issues**: 277 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 1276 · **Open PRs**: 35 · **Closed issues**: 168 · **Open issues**: 109 · **Commits**: 4585
+- **Releases**: 102 · **Merged PRs**: 1278 · **Open PRs**: 35 · **Closed issues**: 168 · **Open issues**: 109 · **Commits**: 4589
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 46 | 9 | 8 | 9 | 58 |
-| last60d | 2026-07-25 | 2 | 91 | 10 | 10 | 9 | 147 |
-| 90d | 2026-06-25 | 5 | 171 | 10 | 14 | 11 | 280 |
-| last180d | 2026-03-27 | 8 | 405 | 17 | 22 | 19 | 807 |
-| 360d | 2025-09-28 | 22 | 725 | 28 | 66 | 27 | 1621 |
-| last720d | 2024-10-03 | 76 | 1205 | 35 | 151 | 104 | 4320 |
+| 30d | 2026-08-25 | 1 | 47 | 9 | 8 | 9 | 60 |
+| last60d | 2026-07-26 | 2 | 91 | 10 | 10 | 9 | 149 |
+| 90d | 2026-06-26 | 5 | 173 | 10 | 14 | 11 | 282 |
+| last180d | 2026-03-28 | 8 | 386 | 17 | 22 | 19 | 809 |
+| 360d | 2025-09-29 | 22 | 726 | 28 | 65 | 27 | 1623 |
+| last720d | 2024-10-04 | 76 | 1206 | 35 | 151 | 104 | 4324 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:16:40Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:44:32Z._
