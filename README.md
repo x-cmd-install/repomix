@@ -14,12 +14,12 @@ x install repomix
 
 ## Code insight
 
-Total: **81,390** lines of code across **477** files in the top 5 languages.
+Total: **81,405** lines of code across **477** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 46,805 | 5,660 | 7,347 | 376 |
-| Json | 33,670 | 0 | 0 | 66 |
+| Json | 33,685 | 0 | 0 | 66 |
 | JavaScript | 211 | 64 | 44 | 11 |
 | Vue | 194 | 3 | 38 | 19 |
 | Yaml | 194 | 43 | 15 | 5 |
@@ -33,26 +33,26 @@ Total: **81,390** lines of code across **477** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.1` (2026-09-21)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-11
 
 ## Popularity
 
-- **Stars**: 28,788 · **Forks**: 1,578 · **Open issues**: 280 · **Contributors**: 72
+- **Stars**: 28,802 · **Forks**: 1,578 · **Open issues**: 281 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 1293 · **Open PRs**: 48 · **Closed issues**: 168 · **Open issues**: 112 · **Commits**: 4619
+- **Releases**: 102 · **Merged PRs**: 1303 · **Open PRs**: 40 · **Closed issues**: 168 · **Open issues**: 113 · **Commits**: 4639
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 41 | 22 | 7 | 12 | 49 |
-| last60d | 2026-08-12 | 1 | 77 | 22 | 9 | 12 | 99 |
-| 90d | 2026-07-13 | 3 | 142 | 23 | 10 | 13 | 234 |
-| last180d | 2026-04-14 | 8 | 334 | 26 | 21 | 18 | 658 |
-| 360d | 2025-10-16 | 20 | 720 | 41 | 62 | 30 | 1571 |
-| last720d | 2024-10-21 | 74 | 1198 | 47 | 147 | 104 | 4290 |
+| 30d | 2026-09-12 | 1 | 42 | 14 | 7 | 13 | 47 |
+| last60d | 2026-08-13 | 1 | 87 | 14 | 9 | 13 | 97 |
+| 90d | 2026-07-14 | 3 | 151 | 15 | 10 | 14 | 215 |
+| last180d | 2026-04-15 | 8 | 344 | 18 | 21 | 19 | 609 |
+| 360d | 2025-10-17 | 20 | 728 | 33 | 62 | 31 | 1547 |
+| last720d | 2024-10-22 | 74 | 1208 | 39 | 147 | 105 | 4306 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:43:26Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:56:37Z._
