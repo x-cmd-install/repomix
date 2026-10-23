@@ -37,7 +37,7 @@ Total: **81,405** lines of code across **477** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,962 · **Forks**: 1,593 · **Open issues**: 282 · **Contributors**: 72
+- **Stars**: 28,983 · **Forks**: 1,596 · **Open issues**: 282 · **Contributors**: 72
 
 ## Totals (cumulative)
 
@@ -47,12 +47,21 @@ Total: **81,405** lines of code across **477** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 32 | 8 | 0 | 5 | 30 |
-| last60d | 2026-08-23 | 1 | 78 | 17 | 8 | 14 | 97 |
-| 90d | 2026-07-24 | 2 | 128 | 18 | 10 | 14 | 179 |
-| last180d | 2026-04-25 | 8 | 320 | 21 | 21 | 19 | 590 |
-| 360d | 2025-10-27 | 19 | 714 | 36 | 60 | 32 | 1537 |
-| last720d | 2024-11-01 | 74 | 1208 | 42 | 146 | 105 | 4304 |
+| 30d | 2026-09-23 | 0 | 30 | 8 | 0 | 5 | 30 |
+| last60d | 2026-08-24 | 1 | 78 | 17 | 8 | 14 | 97 |
+| 90d | 2026-07-25 | 2 | 123 | 18 | 10 | 14 | 179 |
+| last180d | 2026-04-26 | 8 | 316 | 21 | 20 | 19 | 590 |
+| 360d | 2025-10-28 | 19 | 714 | 36 | 60 | 32 | 1537 |
+| last720d | 2024-11-02 | 74 | 1205 | 42 | 146 | 103 | 4304 |
+
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/repomix). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.18.1` | ✅ latest |
+| Nix unstable | `1.18.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +72,4 @@ Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:58Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:47:27Z._
