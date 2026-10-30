@@ -37,7 +37,7 @@ Total: **82,107** lines of code across **484** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,062 · **Forks**: 1,605 · **Open issues**: 282 · **Contributors**: 76
+- **Stars**: 29,074 · **Forks**: 1,609 · **Open issues**: 282 · **Contributors**: 76
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **82,107** lines of code across **484** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 46 | 4 | 1 | 3 | 58 |
-| last60d | 2026-08-30 | 1 | 98 | 9 | 8 | 13 | 119 |
-| 90d | 2026-07-31 | 2 | 151 | 10 | 10 | 13 | 212 |
-| last180d | 2026-05-02 | 7 | 335 | 17 | 21 | 18 | 583 |
-| 360d | 2025-11-03 | 19 | 739 | 31 | 59 | 31 | 1568 |
-| last720d | 2024-11-08 | 70 | 1229 | 38 | 145 | 100 | 4343 |
+| 30d | 2026-09-30 | 0 | 46 | 4 | 1 | 3 | 58 |
+| last60d | 2026-08-31 | 1 | 98 | 9 | 8 | 13 | 119 |
+| 90d | 2026-08-01 | 2 | 146 | 10 | 10 | 13 | 212 |
+| last180d | 2026-05-03 | 7 | 332 | 17 | 21 | 18 | 583 |
+| 360d | 2025-11-04 | 19 | 739 | 31 | 59 | 31 | 1568 |
+| last720d | 2024-11-09 | 70 | 1229 | 38 | 145 | 100 | 4343 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:51:06Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:55:56Z._
