@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.18.1"
   latestRelease: "v1.18.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:50:51Z
+  collectedAt: 2026-10-30T05:55:46Z
 timeline:
   created: 2024-07-13
   lastCommit: 2026-10-28
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-21
   lastPrerelease: 
 popularity:
-  star: 29062
-  watcher: 71
-  fork: 1605
+  star: 29074
+  watcher: 72
+  fork: 1609
   release: 102
   contributor: 76
   pullRequest: 1632
@@ -33,7 +33,7 @@ language:
 totalBytes: 2424903
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 46
     openPR: 4
@@ -41,7 +41,7 @@ recent:
     openIssue: 3
     commit: 58
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 1
     mergedPR: 98
     openPR: 9
@@ -49,23 +49,23 @@ recent:
     openIssue: 13
     commit: 119
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 2
-    mergedPR: 151
+    mergedPR: 146
     openPR: 10
     closedIssue: 10
     openIssue: 13
     commit: 212
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 7
-    mergedPR: 335
+    mergedPR: 332
     openPR: 17
     closedIssue: 21
     openIssue: 18
     commit: 583
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 19
     mergedPR: 739
     openPR: 31
@@ -73,7 +73,7 @@ recent:
     openIssue: 31
     commit: 1568
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 70
     mergedPR: 1229
     openPR: 38
@@ -89,7 +89,7 @@ total:
   commit: 4725
 ---
 path: /home/runner/.x-repo/github.com/yamadashy/repomix
-collectedAt: 2026-10-29T05:50:58Z
+collectedAt: 2026-10-30T05:55:50Z
 loc:
   TypeScript:
     code: 48525
