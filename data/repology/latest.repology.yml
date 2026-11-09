@@ -2,8 +2,8 @@
   srcname: repomix
   binname: repomix
   visiblename: repomix
-  version: 1.18.1
-  origversion: 1.18.1-1
+  version: 1.19.0
+  origversion: 1.19.0-1
   status: newest
   summary: Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file.
   maintainers:
@@ -27,7 +27,7 @@
   visiblename: repomix
   version: 1.18.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Pack repository contents into a single AI-friendly file
 - repo: nix_stable_25_05
   srcname: repomix
