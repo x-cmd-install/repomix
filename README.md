@@ -37,7 +37,7 @@ Total: **82,775** lines of code across **492** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,197 · **Forks**: 1,632 · **Open issues**: 287 · **Contributors**: 79
+- **Stars**: 29,208 · **Forks**: 1,630 · **Open issues**: 287 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -47,20 +47,20 @@ Total: **82,775** lines of code across **492** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 78 | 7 | 1 | 7 | 148 |
-| last60d | 2026-09-10 | 2 | 136 | 10 | 8 | 19 | 207 |
-| 90d | 2026-08-11 | 2 | 172 | 10 | 9 | 19 | 265 |
-| last180d | 2026-05-13 | 8 | 363 | 14 | 19 | 24 | 614 |
-| 360d | 2025-11-14 | 19 | 784 | 26 | 57 | 35 | 1654 |
-| last720d | 2024-11-19 | 71 | 1274 | 33 | 146 | 102 | 4500 |
+| 30d | 2026-10-11 | 1 | 75 | 7 | 1 | 6 | 148 |
+| last60d | 2026-09-11 | 2 | 136 | 10 | 8 | 19 | 207 |
+| 90d | 2026-08-12 | 2 | 172 | 10 | 9 | 19 | 265 |
+| last180d | 2026-05-14 | 8 | 363 | 14 | 19 | 24 | 614 |
+| 360d | 2025-11-15 | 19 | 783 | 26 | 57 | 35 | 1654 |
+| last720d | 2024-11-20 | 71 | 1274 | 33 | 146 | 102 | 4500 |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/repomix). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/repomix). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.18.1` | ⚠️ outdated |
+| Homebrew | `1.19.0` | ✅ latest |
 | Nix unstable | `1.18.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -72,4 +72,4 @@ Install metadata for repomix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:16:28Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:20:26Z._
