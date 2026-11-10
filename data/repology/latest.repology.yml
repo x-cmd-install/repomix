@@ -1,3 +1,15 @@
+- repo: nix_unstable
+  srcname: repomix
+  visiblename: repomix
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: Tool to pack repository contents to single file for AI consumption
+  maintainers:
+    - boralg@github
+    - koukun0120@gmail.com
+  licenses:
+    - MIT
 - repo: aur
   srcname: repomix
   binname: repomix
@@ -25,9 +37,9 @@
 - repo: homebrew
   srcname: repomix
   visiblename: repomix
-  version: 1.18.1
+  version: 1.19.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Pack repository contents into a single AI-friendly file
 - repo: nix_stable_25_05
   srcname: repomix
@@ -55,18 +67,6 @@
   srcname: repomix
   visiblename: repomix
   version: 1.15.0
-  origversion: null
-  status: outdated
-  summary: Tool to pack repository contents to single file for AI consumption
-  maintainers:
-    - boralg@github
-    - koukun0120@gmail.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: repomix
-  visiblename: repomix
-  version: 1.18.0
   origversion: null
   status: outdated
   summary: Tool to pack repository contents to single file for AI consumption
