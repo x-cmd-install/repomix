@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.19.0"
   latestRelease: "v1.19.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:47:48Z
+  collectedAt: 2026-11-28T07:39:52Z
 timeline:
   created: 2024-07-13
   lastCommit: 2026-11-26
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-08
   lastPrerelease: 
 popularity:
-  star: 29468
-  watcher: 75
-  fork: 1660
+  star: 29483
+  watcher: 74
+  fork: 1659
   release: 103
   contributor: 79
-  pullRequest: 1725
+  pullRequest: 1729
   issue: 296
 language:
   TypeScript: 2380282
@@ -45,63 +45,63 @@ language:
 totalBytes: 2521609
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 62
-    openPR: 25
+    openPR: 29
     closedIssue: 1
     openIssue: 14
     commit: 127
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
-    mergedPR: 113
-    openPR: 26
+    mergedPR: 112
+    openPR: 29
     closedIssue: 2
     openIssue: 17
     commit: 190
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
-    mergedPR: 167
-    openPR: 28
+    mergedPR: 166
+    openPR: 32
     closedIssue: 9
     openIssue: 27
     commit: 254
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 7
     mergedPR: 341
-    openPR: 32
+    openPR: 36
     closedIssue: 19
     openIssue: 32
     commit: 582
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 17
-    mergedPR: 776
-    openPR: 42
+    mergedPR: 775
+    openPR: 45
     closedIssue: 53
-    openIssue: 42
+    openIssue: 41
     commit: 1624
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 68
     mergedPR: 1279
-    openPR: 51
+    openPR: 55
     closedIssue: 146
     openIssue: 106
     commit: 4499
 total:
   release: 103
   mergedPR: 1407
-  openPR: 52
+  openPR: 56
   closedIssue: 171
   openIssue: 125
   commit: 4934
 ---
 path: /home/runner/.x-repo/github.com/yamadashy/repomix
-collectedAt: 2026-11-27T08:47:55Z
+collectedAt: 2026-11-28T07:39:56Z
 loc:
   TypeScript:
     code: 48586
